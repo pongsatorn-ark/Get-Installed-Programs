@@ -1,1 +1,1 @@
-# Get-Installed-Programs
+Get Installed Programs via PowerShell & Registry Keys
